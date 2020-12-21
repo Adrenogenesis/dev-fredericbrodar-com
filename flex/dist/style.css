@@ -1,0 +1,26 @@
+.centering-demo {
+  display: -webkit-box;
+  display: flex; 
+  place-items: center; 
+  gap: .5ch;
+  font-size: 20vmin;
+  }
+
+img {
+  max-block-size: 1.25em;
+}
+
+html {
+  block-size: 100%;
+  inline-size: 100%;
+}
+
+body {
+  min-block-size: 100%;
+  min-inline-size: 100%;
+  margin: 0;
+  box-sizing: border-box;
+  display: grid;
+  place-content: center;
+  font-family: system-ui, sans-serif;
+ }

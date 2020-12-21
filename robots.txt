@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+https://www.fredericbrodar.com/sitemap.xml
